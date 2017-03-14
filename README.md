@@ -1,5 +1,8 @@
 # Z-12
-Game written in Java for 1st term project
+Game written in Java for 1st term project. <br>
+Code was written when I was learning OOP, Desing Patterns and Java for the first time 
+so there is no code convention and design pattern implementation might look ugly. 
+The goal was to get project done in 2 days before deadline.
 
 # Demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=erMRC1A2b3A
