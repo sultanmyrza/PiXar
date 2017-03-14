@@ -22,3 +22,12 @@ alt="IMAGE ALT TEXT HERE" width="480" height="320" border="10" /></a>
 ## Usage
 + open downloaded folder from Eclipse
 + Run as application
+
+## Storyboard for game 
+
+<div style="display:inline-block">
+<img src="https://github.com/sultanmyrza/Z-12/blob/master/storyboard/1.png" width="45%"/>
+<img src="https://github.com/sultanmyrza/Z-12/blob/master/storyboard/2.png" width="45%"/>
+<img src="https://github.com/sultanmyrza/Z-12/blob/master/storyboard/3.png" width="45%"/>
+<img src="https://github.com/sultanmyrza/Z-12/blob/master/storyboard/5.png" width="45%"/>
+</div>
